@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music_Player.iml" filepath="$PROJECT_DIR$/.idea/modules/Music_Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music Player/Stage 1/Music_Player.Music_Player-Stage_1.iml" filepath="$PROJECT_DIR$/.idea/modules/Music Player/Stage 1/Music_Player.Music_Player-Stage_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music Player/Stage 2/Music_Player.Music_Player-Stage_2.iml" filepath="$PROJECT_DIR$/.idea/modules/Music Player/Stage 2/Music_Player.Music_Player-Stage_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music Player/Stage 3/Music_Player.Music_Player-Stage_3.iml" filepath="$PROJECT_DIR$/.idea/modules/Music Player/Stage 3/Music_Player.Music_Player-Stage_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Music Player/Stage 4/Music_Player.Music_Player-Stage_4.iml" filepath="$PROJECT_DIR$/.idea/modules/Music Player/Stage 4/Music_Player.Music_Player-Stage_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Music_Player.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Music_Player.util.iml" />
+    </modules>
+  </component>
+</project>

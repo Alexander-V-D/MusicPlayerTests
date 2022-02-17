@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Boss/AndroidStudioProjects/Music Player/Music Player/Stage 1/src/main/res/layout/activity_test.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Boss/AndroidStudioProjects/Music Player/Music Player/Stage 2/src/main/res/layout/activity_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Boss/AndroidStudioProjects/Music Player/Music Player/Stage 3/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Boss/AndroidStudioProjects/Music Player/Music Player/Stage 3/src/main/res/layout/fragment_song.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Boss/AndroidStudioProjects/Music Player/Music Player/Stage 4/src/main/res/layout/activity_main.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/Boss/AndroidStudioProjects/Music Player/Music Player/Stage 4/src/main/res/layout/fragment_song.xml" value="0.1641337386018237" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
