@@ -2,9 +2,7 @@ package com.example.boss
 
 import android.Manifest
 import android.content.ContentUris
-import android.content.pm.PackageManager
 import android.media.MediaPlayer
-import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button

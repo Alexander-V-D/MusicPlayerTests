@@ -2,6 +2,7 @@ package com.example.boss
 
 import android.app.Activity
 import android.view.View
+import androidx.test.uiautomator.UiDevice
 
 abstract class AbstractUnitTest<T : Activity>(private val activityClass: Class<T>) {
 
@@ -9,6 +10,8 @@ abstract class AbstractUnitTest<T : Activity>(private val activityClass: Class<T
 //        private set
 
     protected lateinit var activity: T
+
+    protected lateinit var device: UiDevice
 
 //    @Before
 //    fun beforeAbstract() {

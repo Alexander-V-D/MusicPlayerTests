@@ -1,0 +1,28 @@
+type: edu
+files:
+- name: build.gradle
+  visible: true
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/values/styles.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/res/values/colors.xml
+  visible: true
+- name: src/main/res/layout/activity_main.xml
+  visible: true
+- name: src/main/res/layout/fragment_song.xml
+  visible: true
+- name: src/main/java/com/example/boss/MainActivity.kt
+  visible: true
+- name: src/main/java/com/example/boss/SongFragment.kt
+  visible: true
+- name: src/main/java/com/example/boss/Timer.kt
+  visible: true
+- name: src/androidTest/java/com/example/boss/AbstractTest.kt
+  visible: false
+- name: src/androidTest/java/com/example/boss/AndroidEduTestRunner.kt
+  visible: false
+- name: src/androidTest/java/com/example/boss/Stage5Test.kt
+  visible: false

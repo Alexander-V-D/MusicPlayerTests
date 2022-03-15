@@ -10,9 +10,15 @@ files:
   visible: true
 - name: src/main/res/values/colors.xml
   visible: true
-- name: src/test/java/com/example/boss/ExampleUnitTest.kt
+- name: src/main/res/layout/activity_main.xml
+  visible: true
+- name: src/main/res/layout/fragment_song.xml
+  visible: true
+- name: src/androidTest/java/com/example/boss/AbstractTest.kt
   visible: false
 - name: src/androidTest/java/com/example/boss/AndroidEduTestRunner.kt
+  visible: false
+- name: src/androidTest/java/com/example/boss/Stage4Test.kt
   visible: false
 - name: src/main/java/com/example/boss/MainActivity.kt
   visible: true
@@ -20,11 +26,3 @@ files:
   visible: true
 - name: src/main/java/com/example/boss/Timer.kt
   visible: true
-- name: src/main/res/layout/activity_main.xml
-  visible: true
-- name: src/main/res/layout/fragment_song.xml
-  visible: true
-- name: src/androidTest/java/com/example/boss/Stage4Test.kt
-  visible: false
-- name: src/androidTest/java/com/example/boss/AbstractTest.kt
-  visible: false

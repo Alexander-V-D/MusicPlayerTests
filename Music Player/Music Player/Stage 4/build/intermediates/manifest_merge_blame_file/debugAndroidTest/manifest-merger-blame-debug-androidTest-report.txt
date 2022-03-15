@@ -3,24 +3,24 @@
 3    package="com.example.boss.test" >
 4
 5    <uses-sdk
-5-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:5:5-74
+5-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:5:15-41
+6-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:5:15-41
 7        android:targetSdkVersion="31" />
-7-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:5:42-71
+7-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:5:42-71
 8
 9    <instrumentation
-9-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:11:5-15:66
+9-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:11:5-15:66
 10        android:name="com.example.boss.AndroidEduTestRunner"
-10-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:11:22-74
+10-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:11:22-74
 11        android:functionalTest="false"
-11-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:14:22-52
+11-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:14:22-52
 12        android:handleProfiling="false"
-12-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:13:22-53
+12-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:13:22-53
 13        android:label="Tests for com.example.boss"
-13-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:15:22-64
+13-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:15:22-64
 14        android:targetPackage="com.example.boss" />
-14-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:12:22-62
+14-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:12:22-62
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.4.0] C:\Users\Boss\.gradle\caches\transforms-3\79bbbba93d461337b7f190010a247208\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
@@ -40,10 +40,10 @@
 22    </queries>
 23
 24    <application android:debuggable="true" >
-24-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:7:5-9:19
+24-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:7:5-9:19
 25        <uses-library android:name="android.test.runner" />
-25-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:8:9-60
-25-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest14244771348869854303.xml:8:23-57
+25-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:8:9-60
+25-->C:\Users\Boss\AndroidStudioProjects\Music Player\Music Player\Stage 4\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest1935392177039016114.xml:8:23-57
 26
 27        <activity
 27-->[androidx.test:core:1.4.0] C:\Users\Boss\.gradle\caches\transforms-3\79bbbba93d461337b7f190010a247208\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20

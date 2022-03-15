@@ -5,13 +5,12 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.CheckBox
 import android.widget.ImageButton
 import android.widget.TextView
-import androidx.core.view.isVisible
 
 class SongFragment(title: String, artist: String, id: Long, position: Int,
-                   activity: MainActivity) : Fragment() {
+                   activity: MainActivity
+) : Fragment() {
     val mTitle = title
     val mArtist = artist
     val mId = id

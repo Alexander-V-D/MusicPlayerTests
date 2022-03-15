@@ -9,7 +9,8 @@ import android.widget.ImageButton
 import android.widget.TextView
 
 class SongFragment(title: String, artist: String, id: Long, position: Int,
-                   activity: MainActivity) : Fragment() {
+                   activity: MainActivity
+) : Fragment() {
     val mTitle = title
     val mArtist = artist
     val mId = id
@@ -40,6 +41,7 @@ class SongFragment(title: String, artist: String, id: Long, position: Int,
                 mActivity.onPlayPauseSongButtonClick(positionInList, mActivity,
                     view.findViewById(R.id.song_status_button))
             }
+            playButton.contentDescription = mTitle
         }
     }
 }
