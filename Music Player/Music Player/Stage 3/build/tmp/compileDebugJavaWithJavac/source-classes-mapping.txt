@@ -1,2 +1,0 @@
-com/example/boss/BuildConfig.java
- com.example.boss.BuildConfig

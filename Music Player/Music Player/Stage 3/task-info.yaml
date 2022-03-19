@@ -14,15 +14,15 @@ files:
   visible: true
 - name: src/main/res/layout/fragment_song.xml
   visible: true
-- name: src/androidTest/java/com/example/boss/AbstractTest.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/AbstractTest.kt
   visible: false
-- name: src/androidTest/java/com/example/boss/AndroidEduTestRunner.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/AndroidEduTestRunner.kt
   visible: false
-- name: src/androidTest/java/com/example/boss/Stage3Test.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/Stage3Test.kt
   visible: false
-- name: src/main/java/com/example/boss/MainActivity.kt
+- name: src/main/java/org/hyperskill/musicplayer/MainActivity.kt
   visible: true
-- name: src/main/java/com/example/boss/SongFragment.kt
+- name: src/main/java/org/hyperskill/musicplayer/SongFragment.kt
   visible: true
-- name: src/main/java/com/example/boss/Timer.kt
+- name: src/main/java/org/hyperskill/musicplayer/Timer.kt
   visible: true

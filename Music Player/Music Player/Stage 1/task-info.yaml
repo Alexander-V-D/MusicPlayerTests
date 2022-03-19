@@ -12,13 +12,13 @@ files:
   visible: true
 - name: src/main/res/values/colors.xml
   visible: true
-- name: src/androidTest/java/com/example/boss/AbstractTest.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/AbstractTest.kt
   visible: false
-- name: src/androidTest/java/com/example/boss/AndroidEduTestRunner.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/AndroidEduTestRunner.kt
   visible: false
-- name: src/androidTest/java/com/example/boss/ExampleInstrumentedTest.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/ExampleInstrumentedTest.kt
   visible: false
-- name: src/androidTest/java/com/example/boss/Stage1Test.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/Stage1Test.kt
   visible: false
-- name: src/main/java/com/example/boss/MainActivity.kt
+- name: src/main/java/org/hyperskill/musicplayer/MainActivity.kt
   visible: true

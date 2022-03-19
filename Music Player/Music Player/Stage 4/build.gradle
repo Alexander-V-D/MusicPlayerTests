@@ -5,12 +5,12 @@ android {
   compileSdkVersion 31
 
   defaultConfig {
-    applicationId "com.example.boss"
+    applicationId "org.hyperskill.musicplayer"
     minSdkVersion 21
     targetSdkVersion 31
     versionCode 1
     versionName "1.0"
-    testInstrumentationRunner "com.example.boss.AndroidEduTestRunner"
+    testInstrumentationRunner "org.hyperskill.musicplayer.AndroidEduTestRunner"
   }
   buildTypes {
     release {

@@ -12,11 +12,11 @@ files:
   visible: true
 - name: src/main/res/values/colors.xml
   visible: true
-- name: src/androidTest/java/com/example/boss/AbstractTest.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/AbstractTest.kt
   visible: false
-- name: src/androidTest/java/com/example/boss/Stage2Test.kt
+- name: src/androidTest/java/org/hyperskill/musicplayer/Stage2Test.kt
   visible: false
-- name: src/main/java/com/example/boss/MainActivity.kt
+- name: src/main/java/org/hyperskill/musicplayer/MainActivity.kt
   visible: true
-- name: src/main/java/com/example/boss/Timer.kt
+- name: src/main/java/org/hyperskill/musicplayer/Timer.kt
   visible: true
