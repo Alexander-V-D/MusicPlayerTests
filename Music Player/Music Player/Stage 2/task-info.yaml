@@ -4,8 +4,6 @@ files:
   visible: true
 - name: src/main/AndroidManifest.xml
   visible: true
-- name: src/main/res/layout/activity_main.xml
-  visible: true
 - name: src/main/res/values/styles.xml
   visible: true
 - name: src/main/res/values/strings.xml
@@ -16,7 +14,9 @@ files:
   visible: false
 - name: src/androidTest/java/com/example/boss/Stage2Test.kt
   visible: false
+- name: src/main/res/layout/activity_main.xml
+  visible: true
 - name: src/main/java/com/example/boss/MainActivity.kt
   visible: true
-- name: src/main/java/com/example/boss/Timer.kt
+- name: src/main/res/raw/music1.mp3
   visible: true
